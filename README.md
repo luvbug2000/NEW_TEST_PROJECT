@@ -77,7 +77,7 @@ TEST REQUEST
 ###
 <p align="center">
 WHAT IM DEMO'ING IN MY QUERY: <br/>
-<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/da9fd6cb-0ba9-4776-a682-52811177fc4d" />
 <br />
 <br />
 
