@@ -1,20 +1,20 @@
-<h1>SQL Techniques</h1>
+<h1>Advanced SQL Techniques</h1>
 <img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
 
-### SQL projects demonstrate comprehensive skills like: 
- - <b>Retrieving Data from a Single Table</b>
+### Advanced SQL projects demonstrate complex skills like: 
+ - <b>Retrieving Data from a Single Table</b> **wilil need to update the bullet wording to match skill**
  - <b>Filtering and Calculating Data</b>
  - <b>Summarizing the Data</b>
 
 
-<h2>SQL Project 1</h2>
+<h2>SQL Project 1</h2> **update names to match project if need be**
 In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. I would like to review the top 10 loans with the highest loan amount and should include the following: ID of the loan, amount of the loan, type of loan, and status of the loan.
 <br />
 
 
 ###
 <p align="center">
-Extracting, Sorting, and Limiting Data: <br/>
+Extracting, Sorting, and Limiting Data: <br/> **update to complex skill used in bootcamp**
 <img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
 <br />
 <br />
@@ -68,6 +68,32 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
 <br />
 <br />
+
+<h2>SQL Project 6</h2>
+TEST REQUEST
+<br />
+
+
+###
+<p align="center">
+WHAT IM DEMO'ING IN MY QUERY: <br/>
+<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<br />
+<br />
+
+<h2>SQL Project 5</h2>
+Maya in Customer Success is examining transaction risk around withdrawals. She’s looking for situations where a large withdrawal leaves the account with a negative balance greater than $500 — specifically when the remaining amount is lower than the withdrawal itself.
+<br />
+
+
+###
+<p align="center">
+Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
+<img width="461" alt="Image" src="https://github.com/user-attachments/assets/19eb3650-e1f4-48b2-8a4d-03161ae1981e" />
+<br />
+<br />
+
+
 
 
 </p>
